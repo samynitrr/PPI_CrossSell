@@ -1,0 +1,11 @@
+numpy
+pandas
+sklearn
+apyori
+scipy
+matplotlib
+seaborn
+plotly
+chart-studio
+mlxtend
+ipykernel
