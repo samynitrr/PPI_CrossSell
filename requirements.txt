@@ -9,3 +9,5 @@ plotly
 chart-studio
 mlxtend
 ipykernel
+boto3
+xlrd
